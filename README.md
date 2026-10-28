@@ -51,7 +51,6 @@ Describe key lessons from building this project.
 
 - **Partner:** [@partner](https://github.com/traceywanjiru)
 
-Brief description of your project and what you learned this week.
 
 ## Features
 
