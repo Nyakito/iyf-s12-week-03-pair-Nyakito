@@ -1,6 +1,6 @@
 # Your Name - Week 03 Project
 
-Brief description of your project and what you learned this week.
+Brief description of your project and what you learned this week...
 
 ## Live Demo
 
@@ -92,7 +92,7 @@ Pretty much everything
 ## Contact
 
 - Email: noah.nyakito1@gmail.com
-- GitHub: [@yourusername](https://github.com/traceywanjiru)
+- GitHub: [@traceywanjiru](https://github.com/traceywanjiru)
 
 ## License
 
