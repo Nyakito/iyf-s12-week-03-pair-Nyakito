@@ -100,6 +100,7 @@ For questions, feedback, or contribution suggestions, please reach out to the pr
 
 - **Noah Nyakito:** [noah.nyakito1@gmail.com](mailto:noah.nyakito1@gmail.com) | GitHub: [@Nyakito](https://github.com/Nyakito)
 - **Tracey Wanjiru:** [traceywanjiru2005@gmail.com](mailto:traceywanjiru2005@gmail.com) | GitHub: [@traceywanjiru](https://github.com/traceywanjiru)
+- **Shaniz Ann:** [shanizannmumbua@gmail.com](mailto:shanizannmumbua@gmail.com) | GitHub: [@Samcodex-405](https://github.com/Samcodex-405)
 
 ---
 
